@@ -10,8 +10,3 @@
 ## 🛠️ Tech Stack  
 - **C++** – Object-Oriented Programming (OOP), Inheritance, Polymorphism  
 - **Exception Handling, Templates & Standard Template Library (STL)**  
-
-## ⚡ How to Run  
-1️⃣ **Compile the program**  
-   ```bash
-   g++ hospital_management.cpp -o hospital_management
