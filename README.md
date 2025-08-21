@@ -7,6 +7,6 @@
 - 📌 **Billing System** – Automated invoice generation  
 - 📌 **Exception Handling & STL** – Ensuring robust and optimized performance  
 
-## 🛠️ Tech Stack  
+## 🛠Tech Stack  
 - **C++** – Object-Oriented Programming (OOP), Inheritance, Polymorphism  
 - **Exception Handling, Templates & Standard Template Library (STL)**  
