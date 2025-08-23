@@ -1,4 +1,4 @@
-#🏥 Hospital Management System – C++  
+#🏥 Hospital Management System –C++  
 **A C++-based Hospital Management System designed to efficiently manage hospital operations, including patient records, doctor management, appointments, treatments, and billing automation**.  
  🚀 Features  
 -  **Patient & Doctor Management** – Store and manage records  
